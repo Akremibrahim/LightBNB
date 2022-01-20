@@ -6,5 +6,3 @@ GROUP BY properties.id
 HAVING avg(property_reviews.rating) >= 4
 ORDER BY cost_per_night
 LIMIT 10;
-© 2022 GitHub, Inc.
-Terms
